@@ -1,0 +1,14 @@
+Preferences:
+p0x=86.0
+p0y=8.0
+p1x=536.0
+p1y=9.0
+p2x=536.0
+p2y=211.0
+p3x=84.0
+p3y=207.0
+threshold=180.0
+distThreshold=30.0
+maxBlobSize=170.0
+minRedValue=220.0
+maxLife=16.0
